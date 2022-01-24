@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Toast.makeText(this, "hello boy", Toast.LENGTH_SHORT).show()
         Toast.makeText(this, "hello boy 2", Toast.LENGTH_SHORT).show()
-        jkhjjghjhg
+        ohh i fucked up what should i do now
     }
 }
